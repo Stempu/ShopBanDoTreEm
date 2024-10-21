@@ -4,7 +4,7 @@
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 
 //Thiết lập hằng số cho client
-const _MODULE_DEFAULT = 'users'; //Module mặc định
+const _MODULE_DEFAULT = 'about'; //Module mặc định
 const _ACTION_DEFAULT = 'list'; //Action mặc định
 
 //Hiển thị số trang
